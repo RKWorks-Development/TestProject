@@ -6,7 +6,7 @@ public class main extends JavaPlugin{
 
     @Override
     public void onEnable() {
-    System.out.println("Das ist ein Test Projekt!");
+    System.out.println("Das ist ein Test.");
     }
 
     @Override
